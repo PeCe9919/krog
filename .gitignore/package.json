@@ -1,14 +1,8 @@
 {
-    "name": "Krog",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-        "start": "node index.js"
-    },
-    "author": "PéCé",
-    "dependencies": {
-        "discord.js": "11.2.1",
-        "request": "2.81.1"
-    }
+  "name": "Krog",
+  "description": "Discord bot",
+  "version": "1.0.0",
+  "engines": {
+    "node": "9.2.0"
+  }
 }
